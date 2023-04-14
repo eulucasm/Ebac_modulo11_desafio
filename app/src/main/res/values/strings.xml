@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Jokenpo desafio</string>
+    <string name="bem_vindo_ao_jokenp">Bem Vindo ao\n Jokenpô</string>
+    <string name="iniciar">Iniciar</string>
+    <string name="jogador_1">Jogador 1</string>
+    <string name="resultado">Resultado</string>
+    <string name="jokenpo">Jokenpô</string>
+    <string name="selecionar_jogada">Selecionar jogada</string>
+    <string name="o_jogador_nome_ganhou">O Jogador $nome Ganhou</string>
+    <string name="reiniciar_jogo">Reiniciar jogo</string>
+</resources>
